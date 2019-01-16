@@ -7,7 +7,7 @@ def second_challenge
   }
 
 
-return groceries.concat(groceries).uniq
+return groceries.
 
   
 
