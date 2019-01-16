@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-groceries.collect.to_a.split.join(" ")
+groceries.values.join(" ")
 
   
 
