@@ -7,7 +7,7 @@ def second_challenge
   }
 
 
-return groceries.keys 
+return groceries.values  
 
   
 
